@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 275995b5348e014138d682c8eda4349e, type: 3}
+  m_Name: CardSpellInteres
+  m_EditorClassIdentifier: 
+  cardName: "Interes \u017Cycia"
+  cardImage: {fileID: -1157602833882825859, guid: cce918108d9adc546b56467e555adf12, type: 3}
+  cardCost: 10
+  cardDescription: "Otrzymujesz 3x z\u0142ota przez 10 sekund"
+  cardEffects: {fileID: 11400000, guid: eaf5bd76a93e3bcfeb305bdd05683d62, type: 2}

@@ -1,0 +1,5 @@
+﻿<Solution>
+  <Project Path="skner.DualGrid.Editor.csproj" />
+  <Project Path="skner.DualGrid.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+</Solution>

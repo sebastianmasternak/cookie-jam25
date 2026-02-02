@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 275995b5348e014138d682c8eda4349e, type: 3}
+  m_Name: CardSpellBomba
+  m_EditorClassIdentifier: 
+  cardName: Bomba
+  cardImage: {fileID: 7836649868880656999, guid: cce918108d9adc546b56467e555adf12, type: 3}
+  cardCost: 6
+  cardDescription: "Zrzucasz bombe w dane miejsce zadaj\u0105c obra\u017Cenia pobliskim
+    wrogom"
+  cardEffects: {fileID: 11400000, guid: 255cff43c98fc4139b78b770c6c3b6af, type: 2}
